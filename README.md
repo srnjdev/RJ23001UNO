@@ -143,6 +143,5 @@ def f(x):
 
 raiz, iteraciones = biseccion(f, 0, 2, tol=1e-9, max_iter=200)
 print(raiz, iteraciones)
-
 ```
 
