@@ -1,0 +1,14 @@
+# Ignorar el entorno virtual
+venv/
+.venv/
+
+# Ignorar carpetas de build y distribuciones
+dist/
+build/
+*.egg-info/
+
+# Ignorar cachés y archivos temporales
+__pycache__/
+*.py[cod]
+*.swp
+*.DS_Store
